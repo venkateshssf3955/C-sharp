@@ -1,0 +1,15 @@
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\bin\Debug\net6.0\bloodBank.exe
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\bin\Debug\net6.0\bloodBank.deps.json
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\bin\Debug\net6.0\bloodBank.runtimeconfig.json
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\bin\Debug\net6.0\bloodBank.dll
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\bin\Debug\net6.0\bloodBank.pdb
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.csproj.AssemblyReference.cache
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.AssemblyInfoInputs.cache
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.AssemblyInfo.cs
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.csproj.CoreCompileInputs.cache
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.dll
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\refint\bloodBank.dll
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.pdb
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\bloodBank.genruntimeconfig.cache
+C:\Users\VenkateshSankar\OneDrive - Syncfusion\Desktop\bloodBank\obj\Debug\net6.0\ref\bloodBank.dll
